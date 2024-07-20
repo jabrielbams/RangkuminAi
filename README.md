@@ -6,10 +6,9 @@ Welcome to the **RangkuminAi** project! This is an open-source article summarize
 
 ## Features
 
-- **AI-Powered Summarization**: Utilizes advanced natural language processing techniques via the AI API from [Rapidai.com](https://rapidai.com) to generate accurate and readable summaries.
+- **AI-Powered Summarization**: Utilizes advanced natural language processing techniques via the AI API from [Rapidai.com]([https://rapidai.com](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)) to generate accurate and readable summaries.
 - **User-Friendly Interface**: Easy-to-use interface for seamless interaction.
 - **Real-Time Processing**: Quickly processes articles to provide instant summaries.
-- **Customizable**: Adjust the summary length and other parameters to suit your needs.
 - **Responsive Design**: Optimized for both desktop and mobile use.
 - **Deployed on Netlify**: Ensuring reliable and scalable hosting.
 
